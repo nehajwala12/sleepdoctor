@@ -1,0 +1,973 @@
+{
+ "hist": {
+  "sm_rev": {
+   "2021": 62.1,
+   "2022": 77.8,
+   "2023": 58.8,
+   "2024": 23.2,
+   "2025": 16.6,
+   "2026F": 16.3
+  },
+  "sc_rev": {
+   "2021": 2.5,
+   "2022": 3.2,
+   "2023": 8.0,
+   "2024": 11.2,
+   "2025": 14.5,
+   "2026F": 20.3
+  },
+  "tot_rev": {
+   "2021": 64.6,
+   "2022": 81.0,
+   "2023": 66.9,
+   "2024": 34.4,
+   "2025": 31.1,
+   "2026F": 36.6
+  },
+  "ebitda": {
+   "2021": 44.0,
+   "2022": 40.5,
+   "2023": 29.6,
+   "2024": 3.4,
+   "2025": -0.6,
+   "2026F": -4.2
+  },
+  "bank_ebitda": {
+   "2024": null,
+   "2025": 0.9,
+   "2026F": -3.0
+  },
+  "sm_rep_ebitda": {
+   "2024": 8.7,
+   "2025": 5.3,
+   "2026F": 5.6
+  },
+  "sm_pre_ss": {
+   "2024": 17.4,
+   "2025": 13.4,
+   "2026F": 13.3
+  },
+  "shared": {
+   "2024": 8.6,
+   "2025": 8.1,
+   "2026F": 7.4
+  },
+  "sc_ebitda": {
+   "2024": -5.3,
+   "2025": -5.8,
+   "2026F": -9.8
+  }
+ },
+ "cash_m": [
+  [
+   "Oct-24",
+   9.06
+  ],
+  [
+   "Nov-24",
+   8.6
+  ],
+  [
+   "Dec-24",
+   8.77
+  ],
+  [
+   "Jan-25",
+   8.05
+  ],
+  [
+   "Feb-25",
+   8.01
+  ],
+  [
+   "Mar-25",
+   7.77
+  ],
+  [
+   "Apr-25",
+   6.97
+  ],
+  [
+   "May-25",
+   6.01
+  ],
+  [
+   "Jun-25",
+   5.65
+  ],
+  [
+   "Jul-25",
+   5.48
+  ],
+  [
+   "Aug-25",
+   5.96
+  ],
+  [
+   "Sep-25",
+   5.96
+  ],
+  [
+   "Oct-25",
+   5.47
+  ],
+  [
+   "Nov-25",
+   3.77
+  ],
+  [
+   "Dec-25",
+   3.83
+  ],
+  [
+   "Jan-26",
+   5.53
+  ],
+  [
+   "Feb-26",
+   5.38
+  ],
+  [
+   "Mar-26",
+   4.94
+  ],
+  [
+   "Apr-26",
+   5.19
+  ],
+  [
+   "May-26",
+   4.68
+  ],
+  [
+   "Jun-26",
+   4.01
+  ],
+  [
+   "Jul-26",
+   4.21
+  ],
+  [
+   "Aug-26",
+   3.18
+  ],
+  [
+   "Sep-26",
+   2.92
+  ]
+ ],
+ "gsc": {
+  "months": [
+   "Jul-25",
+   "Aug-25",
+   "Sep-25",
+   "Oct-25",
+   "Nov-25",
+   "Dec-25",
+   "Jan-26",
+   "Feb-26",
+   "Mar-26",
+   "Apr-26",
+   "May-26",
+   "Jun-26",
+   "Jul-26",
+   "Aug-26",
+   "Sep-26",
+   "Oct-26"
+  ],
+  "sf_clicks": [
+   1826,
+   2012,
+   1832,
+   1874,
+   1663,
+   1438,
+   1656,
+   1431,
+   1411,
+   1277,
+   1328,
+   1165,
+   1222,
+   1122,
+   1088,
+   975
+  ],
+  "sf_impr": [
+   162.4,
+   194.4,
+   186.0,
+   172.8,
+   181.5,
+   179.3,
+   197.7,
+   233.1,
+   243.7,
+   231.4,
+   223.1,
+   192.3,
+   176.1,
+   158.9,
+   141.0,
+   104.1
+  ],
+  "sd_clicks": [
+   149,
+   158,
+   138,
+   100,
+   93,
+   83,
+   103,
+   203,
+   129,
+   103,
+   89,
+   60,
+   58,
+   58,
+   66,
+   57
+  ],
+  "sf_pos": [
+   10.57,
+   9.6,
+   7.27,
+   6.26,
+   6.14,
+   6.49,
+   6.52,
+   5.46,
+   5.22,
+   5.94,
+   6.77,
+   6.31,
+   6.29,
+   6.95,
+   5.94,
+   5.82
+  ]
+ },
+ "debt": {
+  "Sep-26": {
+   "senior": 100.6,
+   "sub": 85.9,
+   "other": 3.3,
+   "cash": 3.2
+  },
+  "Dec-26": {
+   "senior": 103.1,
+   "sub": 88.4,
+   "other": 3.3,
+   "cash": 2.2
+  },
+  "Dec-27": {
+   "senior": 114.5,
+   "sub": 99.3,
+   "other": 3.3,
+   "cash": -1.1
+  },
+  "Dec-28": {
+   "senior": 130.3,
+   "sub": 111.5,
+   "other": 3.3,
+   "cash": 2.9
+  },
+  "Dec-29": {
+   "senior": 139.7,
+   "sub": 125.3,
+   "other": 3.3,
+   "cash": 39.2
+  }
+ },
+ "senior_holders": {
+  "Comvest": 61.6,
+  "Vistria Credit": 24.2,
+  "Cliffwater": 8.4,
+  "Pantheon": 5.9
+ },
+ "SOFR": 0.0404,
+ "senior_rate_cash": 0.1054,
+ "cash_int_senior": 10.9,
+ "corp_standalone": {
+  "lean": 2.0,
+  "base": 2.6,
+  "full": 3.2
+ },
+ "scen": {
+  "Management": [
+   0.045,
+   0.03,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "Base": [
+   -0.12,
+   -0.12,
+   -0.12,
+   -0.1,
+   -0.1
+  ],
+  "Downside": [
+   -0.2,
+   -0.2,
+   -0.18,
+   -0.15,
+   -0.15
+  ],
+  "Severe": [
+   -0.32,
+   -0.25,
+   -0.2,
+   -0.15,
+   -0.15
+  ]
+ },
+ "harvest": {
+  "Management": {
+   "rows": [
+    {
+     "year": 2027,
+     "rev": 17.03,
+     "dir_opex": 3.05,
+     "corp": 2.6,
+     "ebitda": 11.39,
+     "capex": 0.45,
+     "wc": -0.06,
+     "cash": 10.88
+    },
+    {
+     "year": 2028,
+     "rev": 17.54,
+     "dir_opex": 3.08,
+     "corp": 2.6,
+     "ebitda": 11.87,
+     "capex": 0.45,
+     "wc": -0.04,
+     "cash": 11.37
+    },
+    {
+     "year": 2029,
+     "rev": 17.54,
+     "dir_opex": 3.08,
+     "corp": 2.6,
+     "ebitda": 11.87,
+     "capex": 0.45,
+     "wc": -0.0,
+     "cash": 11.42
+    },
+    {
+     "year": 2030,
+     "rev": 17.54,
+     "dir_opex": 3.08,
+     "corp": 2.6,
+     "ebitda": 11.87,
+     "capex": 0.45,
+     "wc": -0.0,
+     "cash": 11.42
+    },
+    {
+     "year": 2031,
+     "rev": 17.54,
+     "dir_opex": 3.08,
+     "corp": 2.6,
+     "ebitda": 11.87,
+     "capex": 0.45,
+     "wc": -0.0,
+     "cash": 11.42
+    }
+   ],
+   "cum_cash_2027_31": 56.5,
+   "terminal_2031": 47.5,
+   "pv_cash": 40.6,
+   "pv_tv": 26.9,
+   "pv_total": 67.6
+  },
+  "Base": {
+   "rows": [
+    {
+     "year": 2027,
+     "rev": 14.34,
+     "dir_opex": 2.87,
+     "corp": 2.6,
+     "ebitda": 8.87,
+     "capex": 0.45,
+     "wc": 0.16,
+     "cash": 8.58
+    },
+    {
+     "year": 2028,
+     "rev": 12.62,
+     "dir_opex": 2.75,
+     "corp": 2.6,
+     "ebitda": 7.27,
+     "capex": 0.45,
+     "wc": 0.14,
+     "cash": 6.96
+    },
+    {
+     "year": 2029,
+     "rev": 11.11,
+     "dir_opex": 2.64,
+     "corp": 2.6,
+     "ebitda": 5.87,
+     "capex": 0.45,
+     "wc": 0.12,
+     "cash": 5.54
+    },
+    {
+     "year": 2030,
+     "rev": 10.0,
+     "dir_opex": 2.55,
+     "corp": 2.6,
+     "ebitda": 4.85,
+     "capex": 0.45,
+     "wc": 0.09,
+     "cash": 4.49
+    },
+    {
+     "year": 2031,
+     "rev": 9.0,
+     "dir_opex": 2.46,
+     "corp": 2.6,
+     "ebitda": 3.94,
+     "capex": 0.45,
+     "wc": 0.08,
+     "cash": 3.57
+    }
+   ],
+   "cum_cash_2027_31": 29.1,
+   "terminal_2031": 11.8,
+   "pv_cash": 22.0,
+   "pv_tv": 6.7,
+   "pv_total": 28.7
+  },
+  "Downside": {
+   "rows": [
+    {
+     "year": 2027,
+     "rev": 13.04,
+     "dir_opex": 2.79,
+     "corp": 2.6,
+     "ebitda": 7.65,
+     "capex": 0.45,
+     "wc": 0.26,
+     "cash": 7.46
+    },
+    {
+     "year": 2028,
+     "rev": 10.43,
+     "dir_opex": 2.59,
+     "corp": 2.6,
+     "ebitda": 5.24,
+     "capex": 0.45,
+     "wc": 0.21,
+     "cash": 5.0
+    },
+    {
+     "year": 2029,
+     "rev": 8.55,
+     "dir_opex": 2.43,
+     "corp": 2.6,
+     "ebitda": 3.52,
+     "capex": 0.45,
+     "wc": 0.15,
+     "cash": 3.22
+    },
+    {
+     "year": 2030,
+     "rev": 7.27,
+     "dir_opex": 2.3,
+     "corp": 2.6,
+     "ebitda": 2.37,
+     "capex": 0.45,
+     "wc": 0.1,
+     "cash": 2.02
+    },
+    {
+     "year": 2031,
+     "rev": 6.18,
+     "dir_opex": 2.18,
+     "corp": 2.6,
+     "ebitda": 1.4,
+     "capex": 0.45,
+     "wc": 0.09,
+     "cash": 1.04
+    }
+   ],
+   "cum_cash_2027_31": 18.7,
+   "terminal_2031": 2.8,
+   "pv_cash": 14.8,
+   "pv_tv": 1.6,
+   "pv_total": 16.4
+  },
+  "Severe": {
+   "rows": [
+    {
+     "year": 2027,
+     "rev": 11.08,
+     "dir_opex": 2.66,
+     "corp": 2.6,
+     "ebitda": 5.82,
+     "capex": 0.45,
+     "wc": 0.42,
+     "cash": 5.79
+    },
+    {
+     "year": 2028,
+     "rev": 8.31,
+     "dir_opex": 2.43,
+     "corp": 2.6,
+     "ebitda": 3.28,
+     "capex": 0.45,
+     "wc": 0.22,
+     "cash": 3.05
+    },
+    {
+     "year": 2029,
+     "rev": 6.65,
+     "dir_opex": 2.26,
+     "corp": 2.6,
+     "ebitda": 1.79,
+     "capex": 0.45,
+     "wc": 0.13,
+     "cash": 1.47
+    },
+    {
+     "year": 2030,
+     "rev": 5.65,
+     "dir_opex": 2.14,
+     "corp": 2.6,
+     "ebitda": 0.91,
+     "capex": 0.45,
+     "wc": 0.08,
+     "cash": 0.54
+    },
+    {
+     "year": 2031,
+     "rev": 4.8,
+     "dir_opex": 2.03,
+     "corp": 2.6,
+     "ebitda": 0.18,
+     "capex": 0.45,
+     "wc": 0.07,
+     "cash": -0.21
+    }
+   ],
+   "cum_cash_2027_31": 10.6,
+   "terminal_2031": 0.3,
+   "pv_cash": 8.9,
+   "pv_tv": 0.2,
+   "pv_total": 9.0
+  }
+ },
+ "sm_adj_ebitda_2026": 10.7,
+ "sell_now": {
+  "Distressed / quick (2.0\u20132.5x adj.)": [
+   21.0,
+   27.0
+  ],
+  "Managed process (3.0\u20133.5x adj.)": [
+   32.0,
+   37.0
+  ],
+  "Strategic / break-up (4.0\u20134.5x adj.)": [
+   43.0,
+   48.0
+  ]
+ },
+ "sc": {
+  "rev_2026": 20.3,
+  "ebitda_2026": -9.8,
+  "rev_2027_plan": 55.5,
+  "ebitda_2027_plan": -3.7,
+  "rev_2028_plan": 112.5,
+  "ebitda_2028_plan": 15.2,
+  "rev_2029_plan": 158.2,
+  "ebitda_2029_plan": 35.2,
+  "ins_wc_2027_plan": 7.5,
+  "ins_wc_2028_plan": 11.5,
+  "sep26_rev_m": 1.25,
+  "sep25_rev_m": 1.25,
+  "sep26_ebitda_m": -1.21,
+  "sep25_ebitda_m": -0.52,
+  "stv_cac": {
+   "2024": 0.49,
+   "2025": 0.68,
+   "Q1'26": 1.13,
+   "Q2'26": 0.89,
+   "Jul-26": 0.72,
+   "Aug-26": 0.63,
+   "Jun-26 cohort @d80": 0.85,
+   "Jul-26 cohort": 0.62,
+   "Aug-26 cohort": 0.54
+  },
+  "cac": {
+   "2024": 279,
+   "2025": 237,
+   "Q1'26": 173,
+   "Q2'26": 208,
+   "Jul-26": 233,
+   "Aug-26": 265,
+   "Sep-26 wkly avg": 299,
+   "Oct-26 wkly avg": 161,
+   "Budget Q4'26": 155
+  },
+  "breakeven_history": [
+   [
+    "May-25 plan",
+    "Aug-26"
+   ],
+   [
+    "Dec-25 budget (cash-pay)",
+    "Q4-26"
+   ],
+   [
+    "VCP",
+    "Nov-26"
+   ],
+   [
+    "Jun-26 board",
+    "2H-26 / early 27"
+   ],
+   [
+    "Oct-26 deck p9",
+    "Apr-27"
+   ],
+   [
+    "Oct-26 deck p11",
+    "Oct-27"
+   ]
+  ]
+ },
+ "stranded_corp": 4.8,
+ "sc_fund": {
+  "Management plan": {
+   "2027": -16.0,
+   "2028": -1.1
+  },
+  "Six-month slip": {
+   "2027": -17.8,
+   "2028": -11.8
+  },
+  "Flat (no ramp)": {
+   "2027": -15.3,
+   "2028": -14.8
+  }
+ },
+ "wind_down": {
+  "severance": -1.6,
+  "contract_exits": -0.6,
+  "inventory_realisation": 1.2,
+  "AR_collection": 1.8,
+  "resupply_book_sale": 2.0,
+  "patient_file_brand_tech": 1.5,
+  "net": 4.3
+ },
+ "options": {
+  "A": {
+   "name": "Extend and fund (management ask)",
+   "exp_nominal_2029": 78.1,
+   "pv": 55.6,
+   "detail": {
+    "plan": {
+     "p": 0.2,
+     "senior_recovery_2029": 134.7
+    },
+    "partial": {
+     "p": 0.35,
+     "senior_recovery_2029": 123.0
+    },
+    "fail": {
+     "p": 0.45,
+     "senior_recovery_2029": 18.0
+    }
+   },
+   "claim_2029": 139.7,
+   "pv_mkt": 28.2,
+   "pv_net_abl": 52.4,
+   "states_pv": {
+    "plan": 95.9,
+    "partial": 87.5,
+    "fail": 12.8
+   },
+   "states_nom": {
+    "plan": 134.7,
+    "partial": 123.0,
+    "fail": 18.0
+   }
+  },
+  "B": {
+   "name": "Ring-fence and harvest Sleep Media; gate or exit Sleep Care",
+   "pv": 34.5,
+   "cum_cash": 29.1,
+   "terminal": 11.8,
+   "windown": 4.3,
+   "pv_mkt": 34.5
+  },
+  "C": {
+   "name": "Formal carve-out into MediaCo, then harvest",
+   "pv": 31.4,
+   "pv_mkt": 31.4
+  },
+  "D": {
+   "name": "Sell Sleep Media now; exit Sleep Care",
+   "pv": 34.6,
+   "gross_proceeds": 34.8,
+   "pv_mkt": 34.6
+  },
+  "E": {
+   "name": "Harvest Media; sell Sleep Care to a strategic",
+   "pv": 37.8,
+   "pv_mkt": 37.8
+  },
+  "F": {
+   "name": "Whole-company sale now",
+   "pv": 34.8,
+   "pv_mkt": 34.8
+  },
+  "G": {
+   "name": "Harvest Media; Sleep Care funded only by sponsor new money, Comvest keeps a warrant",
+   "pv": 72.1,
+   "pv_mkt": 47.8,
+   "states_pv": {
+    "plan": 111.6,
+    "partial": 98.0,
+    "fail": 34.4
+   },
+   "states_nom": {
+    "plan": 153.8,
+    "partial": 134.7,
+    "fail": 44.2
+   },
+   "claim_2029": 115.9,
+   "sweeps_nom": 21.1
+  },
+  "H": {
+   "name": "Harvest through 2027, then sell Sleep Media above a reserve",
+   "pv": 36.6,
+   "sale_2028": 31.0,
+   "pv_mkt": 36.6
+  }
+ },
+ "coverage": {
+  "Management": [
+   1.0,
+   1.04,
+   1.05,
+   1.05,
+   1.05
+  ],
+  "Base": [
+   0.79,
+   0.64,
+   0.51,
+   0.41,
+   0.33
+  ],
+  "Downside": [
+   0.68,
+   0.46,
+   0.3,
+   0.19,
+   0.1
+  ],
+  "Severe": [
+   0.53,
+   0.28,
+   0.13,
+   0.05,
+   -0.02
+  ]
+ },
+ "terminal_mult": {
+  "Management": 4.0,
+  "Base": 3.0,
+  "Downside": 2.0,
+  "Severe": 1.5
+ },
+ "sens_A": [
+  {
+   "p_plan": 0.05,
+   "p_partial": 0.15,
+   "p_fail": 0.8,
+   "A": 28.2,
+   "G": 47.8,
+   "B": 34.5,
+   "H": 36.6
+  },
+  {
+   "p_plan": 0.1,
+   "p_partial": 0.25,
+   "p_fail": 0.65,
+   "A": 39.8,
+   "G": 58.0,
+   "B": 34.5,
+   "H": 36.6
+  },
+  {
+   "p_plan": 0.13,
+   "p_partial": 0.3,
+   "p_fail": 0.57,
+   "A": 46.0,
+   "G": 63.5,
+   "B": 34.5,
+   "H": 36.6
+  },
+  {
+   "p_plan": 0.15,
+   "p_partial": 0.3,
+   "p_fail": 0.55,
+   "A": 47.7,
+   "G": 65.1,
+   "B": 34.5,
+   "H": 36.6
+  },
+  {
+   "p_plan": 0.2,
+   "p_partial": 0.35,
+   "p_fail": 0.45,
+   "A": 55.6,
+   "G": 72.1,
+   "B": 34.5,
+   "H": 36.6
+  },
+  {
+   "p_plan": 0.3,
+   "p_partial": 0.4,
+   "p_fail": 0.3,
+   "A": 67.6,
+   "G": 83.0,
+   "B": 34.5,
+   "H": 36.6
+  },
+  {
+   "p_plan": 0.4,
+   "p_partial": 0.4,
+   "p_fail": 0.2,
+   "A": 75.9,
+   "G": 90.7,
+   "B": 34.5,
+   "H": 36.6
+  }
+ ],
+ "breakeven_A": [
+  0.12,
+  0.18
+ ],
+ "pik_path": {
+  "Dec-26": 103.1,
+  "Dec-27": 114.5,
+  "Dec-28": 130.3,
+  "Dec-29": 139.7
+ },
+ "odds": {
+  "management": [
+   0.2,
+   0.35,
+   0.45
+  ],
+  "market": [
+   0.05,
+   0.15,
+   0.8
+  ]
+ },
+ "G_detail": {
+  "sweep_pv": 17.2,
+  "sweep_fv_29": 23.8,
+  "claim_29_G": 115.9,
+  "media_sale_29": 16.1
+ },
+ "breakeven_A_vs_H": [
+  0.13,
+  0.195
+ ],
+ "opt_range": {
+  "Management": {
+   "A": 77.7,
+   "B": 73.4,
+   "C": 70.3,
+   "D": 41.8,
+   "E": 80.3,
+   "F": 45.4,
+   "G": 96.1,
+   "H": 50.2
+  },
+  "Base": {
+   "A": 55.6,
+   "B": 34.5,
+   "C": 31.4,
+   "D": 34.6,
+   "E": 37.8,
+   "F": 34.6,
+   "G": 72.1,
+   "H": 36.6
+  },
+  "Downside": {
+   "A": 35.2,
+   "B": 22.2,
+   "C": 19.1,
+   "D": 27.5,
+   "E": 21.9,
+   "F": 23.9,
+   "G": 52.0,
+   "H": 26.1
+  },
+  "Severe": {
+   "A": 21.4,
+   "B": 14.8,
+   "C": 11.7,
+   "D": 22.7,
+   "E": 12.8,
+   "F": 17.3,
+   "G": 34.0,
+   "H": 18.7
+  }
+ },
+ "cash_timing": {
+  "years": [
+   2027,
+   2028,
+   2029,
+   2030,
+   2031
+  ],
+  "A": [
+   0,
+   0,
+   78.1,
+   78.1,
+   78.1
+  ],
+  "B": [
+   15.1,
+   22.0,
+   27.6,
+   32.1,
+   47.4
+  ],
+  "D": [
+   38.8,
+   38.8,
+   38.8,
+   38.8,
+   38.8
+  ],
+  "H": [
+   15.1,
+   44.1,
+   44.1,
+   44.1,
+   44.1
+  ],
+  "G": [
+   10.8,
+   17.7,
+   100.0,
+   100.0,
+   100.0
+  ]
+ }
+}
