@@ -1,0 +1,435 @@
+{
+ "weekly": {
+  "weeks": [
+   "12 Jul",
+   "19 Jul",
+   "26 Jul",
+   "2 Aug",
+   "9 Aug",
+   "16 Aug",
+   "23 Aug",
+   "30 Aug",
+   "6 Sep",
+   "13 Sep",
+   "20 Sep",
+   "27 Sep",
+   "4 Oct",
+   "11 Oct",
+   "18 Oct",
+   "25 Oct"
+  ],
+  "sf_clicks": [
+   280557,
+   277951,
+   263285,
+   256753,
+   241041,
+   257293,
+   251644,
+   256440,
+   263789,
+   254120,
+   244317,
+   240822,
+   235627,
+   217094,
+   214318,
+   210962
+  ],
+  "sf_impr": [
+   40497724,
+   39984366,
+   39937113,
+   37824644,
+   38498803,
+   33778256,
+   32435316,
+   36841337,
+   36863431,
+   34269484,
+   27315056,
+   24325612,
+   24127758,
+   23267322,
+   23317612,
+   23428983
+  ],
+  "sd_clicks": [
+   12832,
+   12971,
+   13266,
+   14032,
+   13321,
+   13142,
+   12428,
+   12247,
+   15462,
+   19077,
+   14827,
+   13132,
+   13419,
+   13110,
+   12877,
+   12649
+  ],
+  "sd_impr": [
+   2545347,
+   2452107,
+   2625067,
+   2254186,
+   2522953,
+   2118946,
+   1961611,
+   2349052,
+   2320681,
+   2273704,
+   1541354,
+   1310142,
+   1369802,
+   1363941,
+   1333817,
+   1406152
+  ]
+ },
+ "queries": [
+  [
+   "sleep calculator",
+   18808,
+   -34739,
+   "informational"
+  ],
+  [
+   "ferber method",
+   13549,
+   -3031,
+   "informational"
+  ],
+  [
+   "4 month sleep regression",
+   11204,
+   8016,
+   "informational"
+  ],
+  [
+   "best pillows",
+   9760,
+   7859,
+   "commercial"
+  ],
+  [
+   "best pillow for side sleepers",
+   8832,
+   -70,
+   "commercial"
+  ],
+  [
+   "best mattress",
+   7577,
+   -1098,
+   "commercial"
+  ],
+  [
+   "sleep paralysis demon",
+   5461,
+   914,
+   "informational"
+  ],
+  [
+   "best mattress topper",
+   5454,
+   -163,
+   "commercial"
+  ],
+  [
+   "ferber method sleep training",
+   5277,
+   1236,
+   "informational"
+  ],
+  [
+   "best mattresses 2026",
+   5113,
+   5113,
+   "commercial"
+  ],
+  [
+   "insomnia treatment",
+   5099,
+   4948,
+   "informational"
+  ],
+  [
+   "best pillow",
+   4957,
+   4413,
+   "commercial"
+  ],
+  [
+   "sleep foundation",
+   4933,
+   -1470,
+   "brand"
+  ],
+  [
+   "sleep hygiene",
+   4393,
+   -5012,
+   "informational"
+  ],
+  [
+   "best pillows for side sleepers",
+   3518,
+   1044,
+   "commercial"
+  ],
+  [
+   "how much melatonin is too much",
+   3370,
+   -838,
+   "informational"
+  ],
+  [
+   "how much melatonin should i take",
+   3322,
+   1672,
+   "informational"
+  ],
+  [
+   "best sleep tracker",
+   3278,
+   -2166,
+   "commercial"
+  ],
+  [
+   "best sleeping position",
+   3208,
+   -775,
+   "informational"
+  ],
+  [
+   "magnesium for sleep",
+   3050,
+   -7532,
+   "informational"
+  ],
+  [
+   "stages of sleep",
+   2884,
+   -3356,
+   "informational"
+  ],
+  [
+   "sleep cycle",
+   2032,
+   -3428,
+   "informational"
+  ],
+  [
+   "best mattresses",
+   2062,
+   148,
+   "commercial"
+  ],
+  [
+   "sleep stages",
+   1902,
+   -2418,
+   "informational"
+  ],
+  [
+   "6 month sleep regression",
+   2100,
+   -2306,
+   "informational"
+  ]
+ ],
+ "device": {
+  "sf": {
+   "Mobile": [
+    2475776,
+    -1935941
+   ],
+   "Desktop": [
+    634804,
+    -544285
+   ],
+   "Tablet": [
+    73900,
+    -53070
+   ]
+  },
+  "sd": {
+   "Mobile": [
+    124149,
+    -144871
+   ],
+   "Desktop": [
+    52644,
+    -63017
+   ],
+   "Tablet": [
+    4498,
+    -6346
+   ]
+  }
+ },
+ "country_sf": [
+  [
+   "United States",
+   1501002,
+   -1335641
+  ],
+  [
+   "United Kingdom",
+   379482,
+   -261820
+  ],
+  [
+   "Canada",
+   235824,
+   -162519
+  ],
+  [
+   "Australia",
+   210643,
+   -157994
+  ],
+  [
+   "India",
+   180898,
+   -83683
+  ],
+  [
+   "Philippines",
+   67152,
+   -40271
+  ],
+  [
+   "South Africa",
+   35969,
+   -16784
+  ],
+  [
+   "New Zealand",
+   33289,
+   -23718
+  ]
+ ],
+ "country_sd": [
+  [
+   "United States",
+   93743,
+   -155151
+  ],
+  [
+   "India",
+   28524,
+   1442
+  ],
+  [
+   "Canada",
+   7060,
+   -7661
+  ],
+  [
+   "United Kingdom",
+   6764,
+   -10327
+  ],
+  [
+   "Australia",
+   4945,
+   -5037
+  ]
+ ],
+ "sd_pages": [
+  [
+   "/pages/chronotypes/chronotype-quiz",
+   70631,
+   1681,
+   "Media: quiz"
+  ],
+  [
+   "/ (home)",
+   6988,
+   52,
+   "Shared"
+  ],
+  [
+   "community.sleepdoctor.com pillow thread",
+   5637,
+   -5336,
+   "Media: community"
+  ],
+  [
+   "/pages/reviews/free-and-discounted-mattresses",
+   2653,
+   -492,
+   "Media: reviews"
+  ],
+  [
+   "/pages/dr-michael-breus",
+   2427,
+   635,
+   "Brand"
+  ],
+  [
+   "/pages/reviews/best-mouth-tape-for-sleeping",
+   2384,
+   -35,
+   "Media: reviews"
+  ],
+  [
+   "/pages/reviews/best-percale-sheets",
+   2383,
+   208,
+   "Media: reviews"
+  ],
+  [
+   "/products/home-sleep-apnea-test",
+   2217,
+   -2260,
+   "Clinic: product"
+  ],
+  [
+   "/pages/reviews/best-feather-pillows",
+   1670,
+   1254,
+   "Media: reviews"
+  ],
+  [
+   "/pages/reviews/best-comforters",
+   1368,
+   -457,
+   "Media: reviews"
+  ],
+  [
+   "/pages/cpap/how-to-read-cpap-data",
+   1219,
+   -203,
+   "Media: CPAP editorial"
+  ],
+  [
+   "/pages/reviews/best-anti-snoring-mouthpieces",
+   1143,
+   -5816,
+   "Media: reviews"
+  ],
+  [
+   "/pages/sleep-aids/glycine-for-sleep",
+   711,
+   -6525,
+   "Media: editorial"
+  ],
+  [
+   "/collections/mouth-tape",
+   605,
+   70,
+   "Clinic: store"
+  ]
+ ],
+ "sd_total": {
+  "clicks_aug_oct_2026": 181291,
+  "clicks_aug_oct_2025": 395525
+ }
+}
