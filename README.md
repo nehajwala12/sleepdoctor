@@ -1,4 +1,4 @@
-# Project Nightingale — Sleep Media value extraction (CreditSwan intelligence packet, v3)
+# Project Nightingale — Sleep Media value extraction (CreditSwan intelligence packet, v3.1)
 
 Prepared for Manulife | Comvest Credit Partners ahead of the 4 November 2026 call on carving out Sleep Media from
 Sleep Care and capturing its cash. Refreshed 4 November 2026. Confidential.
@@ -25,8 +25,8 @@ deployment, or share only the preview URL with the Comvest team.
 ## Contents
 
 - Tabs: 01 Overview · 02 About CreditSwan · 03 Media · 04 Momentum · 05 Care · 06 Separation · 07 Value · 08 Plan ·
-  09 Appendix (lender and capital matters) · 10 Assumptions & method · 11 FAQ
-- 164 exhibits (77 graphs, 87 tables), each with a SOURCE · BASIS · ASSUMPTION line; 41 assumptions in the register
+  09 Cash · 10 Appendix · 11 Assumptions & method · 12 FAQ
+- 176 exhibits (graphs and tables), every one carrying a SOURCE · BASIS · ASSUMPTION line
 - Tab 04 Momentum is new: a balanced read of this year's Google rank, AI visibility and monetisation gains against
   the continuing traffic decline, with the October read for the holiday quarter
 - The appendix is deliberately short (3 graphs, 5 tables), below the nine-and-nine standard of the analytical tabs
@@ -36,6 +36,7 @@ deployment, or share only the preview URL with the Comvest team.
 - `data/lrp_media.json` — the long-range plan's media build (traffic, click-through, revenue per click, categories)
 - `data/research3.json` — published sources used (AI visibility studies, AI licensing deals, Google's counting change,
   comparables, precedents)
+- `data/cash_1030.json` — the 13-week cash forecast series (30 Oct and 2 Oct 2026) and monthly liquidity behind the Cash tab
 
 ## QA performed
 
