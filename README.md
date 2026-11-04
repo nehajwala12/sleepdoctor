@@ -1,42 +1,44 @@
-# Project Nightingale — OneCare Media strategic options (CreditSwan intelligence packet)
+# Project Nightingale — Sleep Media value extraction (CreditSwan intelligence packet, v3)
 
-Prepared for Manulife | Comvest Credit Partners ahead of the 4 November 2026 call on carving out Sleep Media from Sleep Care.
-Refreshed 3 November 2026 (version 2, after the full-source pass). Confidential.
+Prepared for Manulife | Comvest Credit Partners ahead of the 4 November 2026 call on carving out Sleep Media from
+Sleep Care and capturing its cash. Refreshed 4 November 2026. Confidential.
+
+Version 3 is the business view: what Sleep Media and Sleep Care are worth, how the value is extracted, and what the
+board decides in the next ninety days. All main-tab values are business values before debt, discounted at 15%
+(12% and 20% shown). Senior-lender considerations (the debt stack, management's request and a counter, lender
+recoveries, governance and enforcement routes) are kept to a short appendix tab.
 
 ## Deploy to Vercel
 
-This folder is a static site: one self-contained `index.html` (fonts load from Google Fonts), a `vercel.json`
-that sets noindex / no-store / no-referrer / no-framing headers, and the model outputs under `data/` for traceability.
+This folder is a static site: one self-contained `index.html` (fonts load from Google Fonts), a `vercel.json` that
+sets noindex / no-store / no-referrer / no-framing headers, and the model and data extracts under `data/`.
 
     cd project-nightingale
     npx vercel --prod
 
-Or add it to the existing `creditswan-brand` project: copy the folder's contents into that project's static root
-(or into a sub-path such as `/nightingale/`) and push. Nothing needs building.
+Or copy the folder's contents into the existing `creditswan-brand` project's static root (or a sub-path such as
+`/nightingale/`) and push. Nothing needs building.
 
 The packet is confidential: turn on Vercel Deployment Protection (password or Vercel Authentication) for the
 deployment, or share only the preview URL with the Comvest team.
 
 ## Contents
 
-- Tabs: 01 Overview · 02 About CreditSwan · 03 Situation · 04 Sleep Media · 05 Sleep Care · 06 Carve-out · 07 Options ·
-  08 Recommendation · 09 Assumptions & method · 10 FAQ
-- 176 exhibits (81 graphs, 95 tables), every one carrying a SOURCE · BASIS · ASSUMPTION line
-- `data/model.json` — the options model outputs (harvest cases, option PVs by state and odds, cash timing)
-- `data/research.json` — the external research used (rates, BDC marks, comparables, precedents, legal routes)
-- `data/gsc_extra.json` — the Search Console cuts (weekly, query, device, country, page) pulled 3 November 2026
-
-## Sources covered in this version
-
-All 29 project files and 3 project docs (board decks Q4-24 to Q3-26, SteerCo updates, SC commentaries, monthly
-lender packages Jan-25 to May-26, the Q4-23 Comvest review, the tech-stack overview, the insurance decks), the
-46 files in the SLEEP - ONE CARE folder (long-range plan, 19 October ask, 13-week cash, liquidity certificate,
-dashboards, domain valuations and broker correspondence, Comvest internal notes), Google Search Console for both
-properties through Markifact (GA4 and Google Ads connections hold no accounts for these properties), and the
-published sources listed on the Assumptions tab.
+- Tabs: 01 Overview · 02 About CreditSwan · 03 Media · 04 Momentum · 05 Care · 06 Separation · 07 Value · 08 Plan ·
+  09 Appendix (lender and capital matters) · 10 Assumptions & method · 11 FAQ
+- 164 exhibits (77 graphs, 87 tables), each with a SOURCE · BASIS · ASSUMPTION line; 41 assumptions in the register
+- Tab 04 Momentum is new: a balanced read of this year's Google rank, AI visibility and monetisation gains against
+  the continuing traffic decline, with the October read for the holiday quarter
+- The appendix is deliberately short (3 graphs, 5 tables), below the nine-and-nine standard of the analytical tabs
+- `data/model3.json` — business valuation outputs: media scenarios, ten value levers, Sleep Care branches and gates,
+  seven paths on two sets of odds, sensitivities, discount-rate view
+- `data/gsc3.json` — Search Console extracts for both properties pulled 4 November 2026 (monthly, weekly, query, page)
+- `data/lrp_media.json` — the long-range plan's media build (traffic, click-through, revenue per click, categories)
+- `data/research3.json` — published sources used (AI visibility studies, AI licensing deals, Google's counting change,
+  comparables, precedents)
 
 ## QA performed
 
 Rendered in Chromium at 1440px and 390px, cream and ink themes: no console errors, no horizontal overflow,
-csMotion.audit() reports no static exhibits, csLayout.report() places every assumptions block, and every
-headline is one sentence of at most fifteen words with at most one number.
+csMotion.audit() reports no static exhibits, csLayout.report() places every assumptions block, exhibits number in
+reading order, and every headline is one sentence of at most fifteen words with at most one number.

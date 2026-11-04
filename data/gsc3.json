@@ -1,0 +1,2612 @@
+{
+ "months": [
+  "2025-07",
+  "2025-08",
+  "2025-09",
+  "2025-10",
+  "2025-11",
+  "2025-12",
+  "2026-01",
+  "2026-02",
+  "2026-03",
+  "2026-04",
+  "2026-05",
+  "2026-06",
+  "2026-07",
+  "2026-08",
+  "2026-09",
+  "2026-10"
+ ],
+ "sf_clicks": [
+  1825725,
+  2011902,
+  1831587,
+  1874287,
+  1663290,
+  1438062,
+  1655657,
+  1431052,
+  1410544,
+  1277457,
+  1327658,
+  1165122,
+  1221584,
+  1121692,
+  1087961,
+  974827
+ ],
+ "sf_impr": [
+  162371463,
+  194394335,
+  185965603,
+  172811347,
+  181498352,
+  179322569,
+  197697659,
+  233117846,
+  243727178,
+  231443026,
+  223111195,
+  192288179,
+  176099370,
+  158921753,
+  141017511,
+  104138966
+ ],
+ "sf_pos": [
+  10.57,
+  9.6,
+  7.27,
+  6.26,
+  6.14,
+  6.49,
+  6.52,
+  5.46,
+  5.22,
+  5.94,
+  6.77,
+  6.31,
+  6.29,
+  6.95,
+  5.94,
+  5.82
+ ],
+ "com_clicks": [
+  331288,
+  421328,
+  332781,
+  291527,
+  297630,
+  236510,
+  250858,
+  240567,
+  226447,
+  240313,
+  299772,
+  250948,
+  263693,
+  256935,
+  205511,
+  174177
+ ],
+ "com_impr": [
+  36514346,
+  46579483,
+  39470075,
+  40486651,
+  47715786,
+  47776968,
+  38985092,
+  59947750,
+  54724409,
+  55194018,
+  52322258,
+  41087860,
+  36066520,
+  33157318,
+  30257027,
+  18948557
+ ],
+ "com_pos": [
+  15.38,
+  14.83,
+  11.43,
+  8.03,
+  7.85,
+  7.92,
+  8.34,
+  6.46,
+  5.99,
+  6.73,
+  7.26,
+  7.21,
+  7.43,
+  7.59,
+  7.01,
+  7.82
+ ],
+ "sd_clicks": [
+  148546,
+  158094,
+  137750,
+  99681,
+  92710,
+  82885,
+  103135,
+  202756,
+  128865,
+  103124,
+  88545,
+  60113,
+  57981,
+  58480,
+  66310,
+  56501
+ ],
+ "sd_pos": [
+  17.74,
+  16.55,
+  13.1,
+  10.07,
+  10.61,
+  11.17,
+  10.82,
+  7.64,
+  8.57,
+  8.94,
+  9.68,
+  10.53,
+  10.82,
+  11.4,
+  9.77,
+  10.48
+ ],
+ "kw": [
+  {
+   "month": "2025-07",
+   "query": "best anti snoring device",
+   "clicks": 443,
+   "impressions": 4895,
+   "ctr": 0.090501,
+   "position": 4.75
+  },
+  {
+   "month": "2025-07",
+   "query": "best weighted blanket",
+   "clicks": 33,
+   "impressions": 1837,
+   "ctr": 0.017964,
+   "position": 16.37
+  },
+  {
+   "month": "2025-07",
+   "query": "best pillows",
+   "clicks": 295,
+   "impressions": 11326,
+   "ctr": 0.026046,
+   "position": 11.9
+  },
+  {
+   "month": "2025-07",
+   "query": "best pillow for side sleepers",
+   "clicks": 3618,
+   "impressions": 41798,
+   "ctr": 0.086559,
+   "position": 3.59
+  },
+  {
+   "month": "2025-07",
+   "query": "best mattresses",
+   "clicks": 1303,
+   "impressions": 21596,
+   "ctr": 0.060335,
+   "position": 6.03
+  },
+  {
+   "month": "2025-07",
+   "query": "best mattress topper",
+   "clicks": 2475,
+   "impressions": 33713,
+   "ctr": 0.073414,
+   "position": 4.94
+  },
+  {
+   "month": "2025-07",
+   "query": "best pillow",
+   "clicks": 181,
+   "impressions": 7931,
+   "ctr": 0.022822,
+   "position": 12.85
+  },
+  {
+   "month": "2025-07",
+   "query": "best mattress for back pain",
+   "clicks": 3998,
+   "impressions": 73014,
+   "ctr": 0.054757,
+   "position": 3.6
+  },
+  {
+   "month": "2025-07",
+   "query": "best mattress",
+   "clicks": 4863,
+   "impressions": 73052,
+   "ctr": 0.066569,
+   "position": 3.73
+  },
+  {
+   "month": "2025-07",
+   "query": "best hybrid mattress",
+   "clicks": 672,
+   "impressions": 14294,
+   "ctr": 0.047013,
+   "position": 3.71
+  },
+  {
+   "month": "2025-07",
+   "query": "best cpap machine",
+   "clicks": 1790,
+   "impressions": 8274,
+   "ctr": 0.2163,
+   "position": 2.13
+  },
+  {
+   "month": "2025-07",
+   "query": "best cooling mattress",
+   "clicks": 408,
+   "impressions": 16438,
+   "ctr": 0.024821,
+   "position": 6.16
+  },
+  {
+   "month": "2025-07",
+   "query": "best mattress for side sleepers",
+   "clicks": 2452,
+   "impressions": 38587,
+   "ctr": 0.063545,
+   "position": 3.25
+  },
+  {
+   "month": "2025-08",
+   "query": "best mattresses",
+   "clicks": 1296,
+   "impressions": 20779,
+   "ctr": 0.062371,
+   "position": 6.23
+  },
+  {
+   "month": "2025-08",
+   "query": "best weighted blanket",
+   "clicks": 49,
+   "impressions": 2537,
+   "ctr": 0.019314,
+   "position": 11.07
+  },
+  {
+   "month": "2025-08",
+   "query": "best pillows",
+   "clicks": 678,
+   "impressions": 20920,
+   "ctr": 0.032409,
+   "position": 9.92
+  },
+  {
+   "month": "2025-08",
+   "query": "best pillow for side sleepers",
+   "clicks": 3545,
+   "impressions": 43184,
+   "ctr": 0.082091,
+   "position": 4.09
+  },
+  {
+   "month": "2025-08",
+   "query": "best pillow",
+   "clicks": 201,
+   "impressions": 10117,
+   "ctr": 0.019868,
+   "position": 12.12
+  },
+  {
+   "month": "2025-08",
+   "query": "best mattress topper",
+   "clicks": 2619,
+   "impressions": 35348,
+   "ctr": 0.074092,
+   "position": 4.98
+  },
+  {
+   "month": "2025-08",
+   "query": "best cpap machine",
+   "clicks": 1877,
+   "impressions": 8087,
+   "ctr": 0.2321,
+   "position": 1.2
+  },
+  {
+   "month": "2025-08",
+   "query": "best mattress for back pain",
+   "clicks": 5898,
+   "impressions": 67947,
+   "ctr": 0.086803,
+   "position": 2.6
+  },
+  {
+   "month": "2025-08",
+   "query": "best mattress",
+   "clicks": 5502,
+   "impressions": 78071,
+   "ctr": 0.070474,
+   "position": 3.89
+  },
+  {
+   "month": "2025-08",
+   "query": "best hybrid mattress",
+   "clicks": 663,
+   "impressions": 14417,
+   "ctr": 0.045987,
+   "position": 4.16
+  },
+  {
+   "month": "2025-08",
+   "query": "best cooling mattress",
+   "clicks": 781,
+   "impressions": 15316,
+   "ctr": 0.050992,
+   "position": 3.31
+  },
+  {
+   "month": "2025-08",
+   "query": "best anti snoring device",
+   "clicks": 399,
+   "impressions": 5092,
+   "ctr": 0.078358,
+   "position": 3.81
+  },
+  {
+   "month": "2025-08",
+   "query": "best mattress for side sleepers",
+   "clicks": 3211,
+   "impressions": 39903,
+   "ctr": 0.08047,
+   "position": 3.06
+  },
+  {
+   "month": "2025-09",
+   "query": "best mattresses",
+   "clicks": 427,
+   "impressions": 16302,
+   "ctr": 0.026193,
+   "position": 10.1
+  },
+  {
+   "month": "2025-09",
+   "query": "best weighted blanket",
+   "clicks": 45,
+   "impressions": 2218,
+   "ctr": 0.020289,
+   "position": 15.33
+  },
+  {
+   "month": "2025-09",
+   "query": "best pillows",
+   "clicks": 484,
+   "impressions": 22499,
+   "ctr": 0.021512,
+   "position": 11.4
+  },
+  {
+   "month": "2025-09",
+   "query": "best pillow for side sleepers",
+   "clicks": 3558,
+   "impressions": 110015,
+   "ctr": 0.032341,
+   "position": 3.41
+  },
+  {
+   "month": "2025-09",
+   "query": "best pillow",
+   "clicks": 127,
+   "impressions": 8910,
+   "ctr": 0.014254,
+   "position": 13.7
+  },
+  {
+   "month": "2025-09",
+   "query": "best mattress topper",
+   "clicks": 1641,
+   "impressions": 27732,
+   "ctr": 0.059174,
+   "position": 6.54
+  },
+  {
+   "month": "2025-09",
+   "query": "best mattress",
+   "clicks": 2266,
+   "impressions": 62663,
+   "ctr": 0.036162,
+   "position": 7.3
+  },
+  {
+   "month": "2025-09",
+   "query": "best mattress for back pain",
+   "clicks": 2271,
+   "impressions": 62381,
+   "ctr": 0.036405,
+   "position": 6.38
+  },
+  {
+   "month": "2025-09",
+   "query": "best hybrid mattress",
+   "clicks": 505,
+   "impressions": 12798,
+   "ctr": 0.039459,
+   "position": 3.71
+  },
+  {
+   "month": "2025-09",
+   "query": "best cpap machine",
+   "clicks": 1554,
+   "impressions": 7576,
+   "ctr": 0.2051,
+   "position": 2.14
+  },
+  {
+   "month": "2025-09",
+   "query": "best cooling mattress",
+   "clicks": 577,
+   "impressions": 15132,
+   "ctr": 0.038131,
+   "position": 3.09
+  },
+  {
+   "month": "2025-09",
+   "query": "best anti snoring device",
+   "clicks": 398,
+   "impressions": 5107,
+   "ctr": 0.077932,
+   "position": 4.87
+  },
+  {
+   "month": "2025-09",
+   "query": "best mattress for side sleepers",
+   "clicks": 2889,
+   "impressions": 40291,
+   "ctr": 0.071703,
+   "position": 2.65
+  },
+  {
+   "month": "2025-10",
+   "query": "best weighted blanket",
+   "clicks": 40,
+   "impressions": 3369,
+   "ctr": 0.011873,
+   "position": 10.72
+  },
+  {
+   "month": "2025-10",
+   "query": "best pillows",
+   "clicks": 739,
+   "impressions": 24342,
+   "ctr": 0.030359,
+   "position": 9.92
+  },
+  {
+   "month": "2025-10",
+   "query": "best pillow for side sleepers",
+   "clicks": 1799,
+   "impressions": 125124,
+   "ctr": 0.014378,
+   "position": 3.75
+  },
+  {
+   "month": "2025-10",
+   "query": "best pillow",
+   "clicks": 216,
+   "impressions": 10464,
+   "ctr": 0.020642,
+   "position": 10.69
+  },
+  {
+   "month": "2025-10",
+   "query": "best mattresses",
+   "clicks": 191,
+   "impressions": 1535045,
+   "ctr": 0.00012443,
+   "position": 5.83
+  },
+  {
+   "month": "2025-10",
+   "query": "best mattress topper",
+   "clicks": 1357,
+   "impressions": 28220,
+   "ctr": 0.048086,
+   "position": 6.03
+  },
+  {
+   "month": "2025-10",
+   "query": "best mattress for side sleepers",
+   "clicks": 2154,
+   "impressions": 28650,
+   "ctr": 0.075183,
+   "position": 3.02
+  },
+  {
+   "month": "2025-10",
+   "query": "best mattress for back pain",
+   "clicks": 1140,
+   "impressions": 38830,
+   "ctr": 0.029359,
+   "position": 6.98
+  },
+  {
+   "month": "2025-10",
+   "query": "best mattress",
+   "clicks": 907,
+   "impressions": 48748,
+   "ctr": 0.018606,
+   "position": 7.39
+  },
+  {
+   "month": "2025-10",
+   "query": "best hybrid mattress",
+   "clicks": 314,
+   "impressions": 8223,
+   "ctr": 0.038186,
+   "position": 4.83
+  },
+  {
+   "month": "2025-10",
+   "query": "best cpap machine",
+   "clicks": 1253,
+   "impressions": 7136,
+   "ctr": 0.1756,
+   "position": 2.0
+  },
+  {
+   "month": "2025-10",
+   "query": "best cooling mattress",
+   "clicks": 110,
+   "impressions": 4049,
+   "ctr": 0.027167,
+   "position": 6.86
+  },
+  {
+   "month": "2025-10",
+   "query": "best anti snoring device",
+   "clicks": 270,
+   "impressions": 4688,
+   "ctr": 0.057594,
+   "position": 4.64
+  },
+  {
+   "month": "2025-10",
+   "query": "best adjustable bed",
+   "clicks": 4,
+   "impressions": 28,
+   "ctr": 0.1429,
+   "position": 23.93
+  },
+  {
+   "month": "2025-10",
+   "query": "best mattress 2026",
+   "clicks": 4,
+   "impressions": 6,
+   "ctr": 0.6667,
+   "position": 3.83
+  },
+  {
+   "month": "2025-11",
+   "query": "best mattress topper",
+   "clicks": 1382,
+   "impressions": 30401,
+   "ctr": 0.045459,
+   "position": 4.2
+  },
+  {
+   "month": "2025-11",
+   "query": "best weighted blanket",
+   "clicks": 124,
+   "impressions": 15245,
+   "ctr": 0.00813381,
+   "position": 3.21
+  },
+  {
+   "month": "2025-11",
+   "query": "best pillows",
+   "clicks": 1404,
+   "impressions": 36625,
+   "ctr": 0.038334,
+   "position": 6.87
+  },
+  {
+   "month": "2025-11",
+   "query": "best pillow for side sleepers",
+   "clicks": 1129,
+   "impressions": 120779,
+   "ctr": 0.00934765,
+   "position": 5.44
+  },
+  {
+   "month": "2025-11",
+   "query": "best pillow",
+   "clicks": 526,
+   "impressions": 17655,
+   "ctr": 0.029793,
+   "position": 7.29
+  },
+  {
+   "month": "2025-11",
+   "query": "best mattresses",
+   "clicks": 202,
+   "impressions": 1866018,
+   "ctr": 0.00010825,
+   "position": 4.17
+  },
+  {
+   "month": "2025-11",
+   "query": "best mattress for side sleepers",
+   "clicks": 1973,
+   "impressions": 31907,
+   "ctr": 0.061836,
+   "position": 2.81
+  },
+  {
+   "month": "2025-11",
+   "query": "best mattress for back pain",
+   "clicks": 565,
+   "impressions": 34080,
+   "ctr": 0.016579,
+   "position": 7.73
+  },
+  {
+   "month": "2025-11",
+   "query": "best mattress 2026",
+   "clicks": 8,
+   "impressions": 60,
+   "ctr": 0.1333,
+   "position": 2.5
+  },
+  {
+   "month": "2025-11",
+   "query": "best mattress",
+   "clicks": 855,
+   "impressions": 60418,
+   "ctr": 0.014151,
+   "position": 5.22
+  },
+  {
+   "month": "2025-11",
+   "query": "best hybrid mattress",
+   "clicks": 372,
+   "impressions": 10352,
+   "ctr": 0.035935,
+   "position": 4.31
+  },
+  {
+   "month": "2025-11",
+   "query": "best cpap machine",
+   "clicks": 860,
+   "impressions": 7297,
+   "ctr": 0.1179,
+   "position": 2.88
+  },
+  {
+   "month": "2025-11",
+   "query": "best cooling mattress",
+   "clicks": 148,
+   "impressions": 6731,
+   "ctr": 0.021988,
+   "position": 6.84
+  },
+  {
+   "month": "2025-11",
+   "query": "best anti snoring device",
+   "clicks": 205,
+   "impressions": 5035,
+   "ctr": 0.040715,
+   "position": 4.61
+  },
+  {
+   "month": "2025-11",
+   "query": "best adjustable bed",
+   "clicks": 5,
+   "impressions": 276,
+   "ctr": 0.018116,
+   "position": 6.99
+  },
+  {
+   "month": "2025-12",
+   "query": "best weighted blanket",
+   "clicks": 173,
+   "impressions": 13428,
+   "ctr": 0.012884,
+   "position": 7.57
+  },
+  {
+   "month": "2025-12",
+   "query": "best pillows",
+   "clicks": 227,
+   "impressions": 13785,
+   "ctr": 0.016467,
+   "position": 10.94
+  },
+  {
+   "month": "2025-12",
+   "query": "best pillow for side sleepers",
+   "clicks": 842,
+   "impressions": 424055,
+   "ctr": 0.00198559,
+   "position": 5.89
+  },
+  {
+   "month": "2025-12",
+   "query": "best pillow",
+   "clicks": 136,
+   "impressions": 13814,
+   "ctr": 0.00984508,
+   "position": 12.29
+  },
+  {
+   "month": "2025-12",
+   "query": "best mattresses 2026",
+   "clicks": 2,
+   "impressions": 23,
+   "ctr": 0.086957,
+   "position": 2.52
+  },
+  {
+   "month": "2025-12",
+   "query": "best mattresses",
+   "clicks": 239,
+   "impressions": 1323804,
+   "ctr": 0.00018054,
+   "position": 3.67
+  },
+  {
+   "month": "2025-12",
+   "query": "best mattress topper",
+   "clicks": 945,
+   "impressions": 28423,
+   "ctr": 0.033248,
+   "position": 5.71
+  },
+  {
+   "month": "2025-12",
+   "query": "best mattress for side sleepers",
+   "clicks": 993,
+   "impressions": 25326,
+   "ctr": 0.039209,
+   "position": 4.83
+  },
+  {
+   "month": "2025-12",
+   "query": "best mattress 2026",
+   "clicks": 42,
+   "impressions": 381,
+   "ctr": 0.1102,
+   "position": 1.65
+  },
+  {
+   "month": "2025-12",
+   "query": "best mattress",
+   "clicks": 1008,
+   "impressions": 64819,
+   "ctr": 0.015551,
+   "position": 10.63
+  },
+  {
+   "month": "2025-12",
+   "query": "best hybrid mattress",
+   "clicks": 230,
+   "impressions": 8208,
+   "ctr": 0.028021,
+   "position": 6.35
+  },
+  {
+   "month": "2025-12",
+   "query": "best cpap machine",
+   "clicks": 602,
+   "impressions": 7377,
+   "ctr": 0.081605,
+   "position": 5.14
+  },
+  {
+   "month": "2025-12",
+   "query": "best cooling mattress",
+   "clicks": 132,
+   "impressions": 5190,
+   "ctr": 0.025434,
+   "position": 10.83
+  },
+  {
+   "month": "2025-12",
+   "query": "best anti snoring device",
+   "clicks": 175,
+   "impressions": 4851,
+   "ctr": 0.036075,
+   "position": 7.76
+  },
+  {
+   "month": "2025-12",
+   "query": "best adjustable bed",
+   "clicks": 2,
+   "impressions": 97,
+   "ctr": 0.020619,
+   "position": 18.13
+  },
+  {
+   "month": "2025-12",
+   "query": "best mattress for back pain",
+   "clicks": 664,
+   "impressions": 39243,
+   "ctr": 0.01692,
+   "position": 9.83
+  },
+  {
+   "month": "2026-01",
+   "query": "best mattress topper",
+   "clicks": 578,
+   "impressions": 25077,
+   "ctr": 0.023049,
+   "position": 7.46
+  },
+  {
+   "month": "2026-01",
+   "query": "best weighted blanket",
+   "clicks": 154,
+   "impressions": 10964,
+   "ctr": 0.014046,
+   "position": 15.96
+  },
+  {
+   "month": "2026-01",
+   "query": "best pillows",
+   "clicks": 295,
+   "impressions": 17187,
+   "ctr": 0.017164,
+   "position": 11.1
+  },
+  {
+   "month": "2026-01",
+   "query": "best pillow for side sleepers",
+   "clicks": 715,
+   "impressions": 475704,
+   "ctr": 0.00150304,
+   "position": 5.45
+  },
+  {
+   "month": "2026-01",
+   "query": "best pillow",
+   "clicks": 189,
+   "impressions": 12978,
+   "ctr": 0.014563,
+   "position": 11.49
+  },
+  {
+   "month": "2026-01",
+   "query": "best mattresses 2026",
+   "clicks": 383,
+   "impressions": 9207,
+   "ctr": 0.041599,
+   "position": 2.01
+  },
+  {
+   "month": "2026-01",
+   "query": "best mattresses",
+   "clicks": 331,
+   "impressions": 1033387,
+   "ctr": 0.00032031,
+   "position": 3.87
+  },
+  {
+   "month": "2026-01",
+   "query": "best mattress for side sleepers",
+   "clicks": 765,
+   "impressions": 30349,
+   "ctr": 0.025207,
+   "position": 5.15
+  },
+  {
+   "month": "2026-01",
+   "query": "best mattress for back pain",
+   "clicks": 750,
+   "impressions": 45531,
+   "ctr": 0.016472,
+   "position": 8.66
+  },
+  {
+   "month": "2026-01",
+   "query": "best mattress 2026",
+   "clicks": 335,
+   "impressions": 4975,
+   "ctr": 0.067337,
+   "position": 1.92
+  },
+  {
+   "month": "2026-01",
+   "query": "best mattress",
+   "clicks": 2405,
+   "impressions": 82352,
+   "ctr": 0.029204,
+   "position": 10.55
+  },
+  {
+   "month": "2026-01",
+   "query": "best hybrid mattress",
+   "clicks": 160,
+   "impressions": 9007,
+   "ctr": 0.017764,
+   "position": 8.26
+  },
+  {
+   "month": "2026-01",
+   "query": "best cpap machine",
+   "clicks": 578,
+   "impressions": 8363,
+   "ctr": 0.069114,
+   "position": 5.49
+  },
+  {
+   "month": "2026-01",
+   "query": "best cooling mattress",
+   "clicks": 192,
+   "impressions": 5955,
+   "ctr": 0.032242,
+   "position": 10.65
+  },
+  {
+   "month": "2026-01",
+   "query": "best anti snoring device",
+   "clicks": 286,
+   "impressions": 6019,
+   "ctr": 0.047516,
+   "position": 5.5
+  },
+  {
+   "month": "2026-01",
+   "query": "best adjustable bed",
+   "clicks": 2,
+   "impressions": 108,
+   "ctr": 0.018519,
+   "position": 12.18
+  },
+  {
+   "month": "2026-02",
+   "query": "best weighted blanket",
+   "clicks": 114,
+   "impressions": 8486,
+   "ctr": 0.013434,
+   "position": 10.08
+  },
+  {
+   "month": "2026-02",
+   "query": "best pillows",
+   "clicks": 841,
+   "impressions": 35343,
+   "ctr": 0.023795,
+   "position": 7.71
+  },
+  {
+   "month": "2026-02",
+   "query": "best pillow for side sleepers",
+   "clicks": 606,
+   "impressions": 2419751,
+   "ctr": 0.00025044,
+   "position": 8.3
+  },
+  {
+   "month": "2026-02",
+   "query": "best pillow",
+   "clicks": 373,
+   "impressions": 17595,
+   "ctr": 0.021199,
+   "position": 8.1
+  },
+  {
+   "month": "2026-02",
+   "query": "best mattresses 2026",
+   "clicks": 1900,
+   "impressions": 24009,
+   "ctr": 0.079137,
+   "position": 1.33
+  },
+  {
+   "month": "2026-02",
+   "query": "best mattresses",
+   "clicks": 611,
+   "impressions": 1751015,
+   "ctr": 0.00034894,
+   "position": 2.38
+  },
+  {
+   "month": "2026-02",
+   "query": "best mattress topper",
+   "clicks": 427,
+   "impressions": 22220,
+   "ctr": 0.019217,
+   "position": 5.03
+  },
+  {
+   "month": "2026-02",
+   "query": "best mattress for side sleepers",
+   "clicks": 903,
+   "impressions": 32120,
+   "ctr": 0.028113,
+   "position": 3.67
+  },
+  {
+   "month": "2026-02",
+   "query": "best mattress for back pain",
+   "clicks": 917,
+   "impressions": 46497,
+   "ctr": 0.019722,
+   "position": 4.99
+  },
+  {
+   "month": "2026-02",
+   "query": "best mattress 2026",
+   "clicks": 531,
+   "impressions": 8987,
+   "ctr": 0.059085,
+   "position": 1.52
+  },
+  {
+   "month": "2026-02",
+   "query": "best mattress",
+   "clicks": 3251,
+   "impressions": 72034,
+   "ctr": 0.045131,
+   "position": 4.24
+  },
+  {
+   "month": "2026-02",
+   "query": "best hybrid mattress",
+   "clicks": 318,
+   "impressions": 8837,
+   "ctr": 0.035985,
+   "position": 5.07
+  },
+  {
+   "month": "2026-02",
+   "query": "best cpap machine",
+   "clicks": 569,
+   "impressions": 7187,
+   "ctr": 0.079171,
+   "position": 2.89
+  },
+  {
+   "month": "2026-02",
+   "query": "best cooling mattress",
+   "clicks": 141,
+   "impressions": 5678,
+   "ctr": 0.024833,
+   "position": 6.43
+  },
+  {
+   "month": "2026-02",
+   "query": "best anti snoring device",
+   "clicks": 79,
+   "impressions": 3463,
+   "ctr": 0.022813,
+   "position": 4.19
+  },
+  {
+   "month": "2026-02",
+   "query": "best adjustable bed",
+   "clicks": 6,
+   "impressions": 317,
+   "ctr": 0.018927,
+   "position": 3.79
+  },
+  {
+   "month": "2026-03",
+   "query": "best weighted blanket",
+   "clicks": 80,
+   "impressions": 6526,
+   "ctr": 0.012259,
+   "position": 8.14
+  },
+  {
+   "month": "2026-03",
+   "query": "best pillows",
+   "clicks": 991,
+   "impressions": 32297,
+   "ctr": 0.030684,
+   "position": 5.64
+  },
+  {
+   "month": "2026-03",
+   "query": "best pillow for side sleepers",
+   "clicks": 683,
+   "impressions": 872439,
+   "ctr": 0.00078286,
+   "position": 5.78
+  },
+  {
+   "month": "2026-03",
+   "query": "best pillow",
+   "clicks": 374,
+   "impressions": 15824,
+   "ctr": 0.023635,
+   "position": 8.09
+  },
+  {
+   "month": "2026-03",
+   "query": "best mattresses",
+   "clicks": 786,
+   "impressions": 1761220,
+   "ctr": 0.00044628,
+   "position": 1.92
+  },
+  {
+   "month": "2026-03",
+   "query": "best mattress topper",
+   "clicks": 186,
+   "impressions": 40459,
+   "ctr": 0.00459725,
+   "position": 4.49
+  },
+  {
+   "month": "2026-03",
+   "query": "best mattress for side sleepers",
+   "clicks": 940,
+   "impressions": 1132154,
+   "ctr": 0.00083028,
+   "position": 3.45
+  },
+  {
+   "month": "2026-03",
+   "query": "best mattresses 2026",
+   "clicks": 1675,
+   "impressions": 26350,
+   "ctr": 0.063567,
+   "position": 1.25
+  },
+  {
+   "month": "2026-03",
+   "query": "best mattress 2026",
+   "clicks": 613,
+   "impressions": 15837,
+   "ctr": 0.038707,
+   "position": 1.37
+  },
+  {
+   "month": "2026-03",
+   "query": "best mattress",
+   "clicks": 3318,
+   "impressions": 405902,
+   "ctr": 0.00817439,
+   "position": 1.97
+  },
+  {
+   "month": "2026-03",
+   "query": "best hybrid mattress",
+   "clicks": 107,
+   "impressions": 9224,
+   "ctr": 0.0116,
+   "position": 6.34
+  },
+  {
+   "month": "2026-03",
+   "query": "best mattress for back pain",
+   "clicks": 1029,
+   "impressions": 237570,
+   "ctr": 0.00433135,
+   "position": 3.92
+  },
+  {
+   "month": "2026-03",
+   "query": "best cpap machine",
+   "clicks": 494,
+   "impressions": 7777,
+   "ctr": 0.063521,
+   "position": 2.21
+  },
+  {
+   "month": "2026-03",
+   "query": "best cooling mattress",
+   "clicks": 228,
+   "impressions": 96237,
+   "ctr": 0.00236915,
+   "position": 2.01
+  },
+  {
+   "month": "2026-03",
+   "query": "best anti snoring device",
+   "clicks": 37,
+   "impressions": 1936,
+   "ctr": 0.019112,
+   "position": 4.0
+  },
+  {
+   "month": "2026-03",
+   "query": "best adjustable bed",
+   "clicks": 3,
+   "impressions": 187,
+   "ctr": 0.016043,
+   "position": 4.8
+  },
+  {
+   "month": "2026-04",
+   "query": "best weighted blanket",
+   "clicks": 33,
+   "impressions": 3790,
+   "ctr": 0.00870712,
+   "position": 10.11
+  },
+  {
+   "month": "2026-04",
+   "query": "best pillows",
+   "clicks": 2261,
+   "impressions": 35744,
+   "ctr": 0.063255,
+   "position": 3.36
+  },
+  {
+   "month": "2026-04",
+   "query": "best pillow for side sleepers",
+   "clicks": 947,
+   "impressions": 1236445,
+   "ctr": 0.00076591,
+   "position": 5.55
+  },
+  {
+   "month": "2026-04",
+   "query": "best pillow",
+   "clicks": 1149,
+   "impressions": 19431,
+   "ctr": 0.059132,
+   "position": 4.26
+  },
+  {
+   "month": "2026-04",
+   "query": "best mattresses 2026",
+   "clicks": 1561,
+   "impressions": 33478,
+   "ctr": 0.046628,
+   "position": 1.78
+  },
+  {
+   "month": "2026-04",
+   "query": "best mattresses",
+   "clicks": 536,
+   "impressions": 138573,
+   "ctr": 0.003868,
+   "position": 2.22
+  },
+  {
+   "month": "2026-04",
+   "query": "best mattress topper",
+   "clicks": 318,
+   "impressions": 49051,
+   "ctr": 0.00648305,
+   "position": 4.31
+  },
+  {
+   "month": "2026-04",
+   "query": "best mattress for side sleepers",
+   "clicks": 525,
+   "impressions": 1240695,
+   "ctr": 0.00042315,
+   "position": 5.09
+  },
+  {
+   "month": "2026-04",
+   "query": "best mattress for back pain",
+   "clicks": 2272,
+   "impressions": 281475,
+   "ctr": 0.00807176,
+   "position": 2.5
+  },
+  {
+   "month": "2026-04",
+   "query": "best mattress 2026",
+   "clicks": 537,
+   "impressions": 20396,
+   "ctr": 0.026329,
+   "position": 1.87
+  },
+  {
+   "month": "2026-04",
+   "query": "best mattress",
+   "clicks": 3411,
+   "impressions": 416539,
+   "ctr": 0.00818891,
+   "position": 2.22
+  },
+  {
+   "month": "2026-04",
+   "query": "best hybrid mattress",
+   "clicks": 155,
+   "impressions": 8317,
+   "ctr": 0.018637,
+   "position": 6.79
+  },
+  {
+   "month": "2026-04",
+   "query": "best cpap machine",
+   "clicks": 504,
+   "impressions": 7030,
+   "ctr": 0.071693,
+   "position": 2.04
+  },
+  {
+   "month": "2026-04",
+   "query": "best cooling mattress",
+   "clicks": 190,
+   "impressions": 102113,
+   "ctr": 0.00186068,
+   "position": 1.82
+  },
+  {
+   "month": "2026-04",
+   "query": "best anti snoring device",
+   "clicks": 41,
+   "impressions": 1848,
+   "ctr": 0.022186,
+   "position": 4.63
+  },
+  {
+   "month": "2026-04",
+   "query": "best adjustable bed",
+   "clicks": 2,
+   "impressions": 99,
+   "ctr": 0.020202,
+   "position": 6.14
+  },
+  {
+   "month": "2026-05",
+   "query": "best weighted blanket",
+   "clicks": 20,
+   "impressions": 1528,
+   "ctr": 0.013089,
+   "position": 16.14
+  },
+  {
+   "month": "2026-05",
+   "query": "best pillows",
+   "clicks": 3451,
+   "impressions": 36516,
+   "ctr": 0.094507,
+   "position": 3.81
+  },
+  {
+   "month": "2026-05",
+   "query": "best pillow for side sleepers",
+   "clicks": 2173,
+   "impressions": 1240124,
+   "ctr": 0.00175224,
+   "position": 2.82
+  },
+  {
+   "month": "2026-05",
+   "query": "best pillow",
+   "clicks": 1586,
+   "impressions": 20521,
+   "ctr": 0.077287,
+   "position": 3.67
+  },
+  {
+   "month": "2026-05",
+   "query": "best mattresses 2026",
+   "clicks": 1389,
+   "impressions": 44586,
+   "ctr": 0.031153,
+   "position": 2.85
+  },
+  {
+   "month": "2026-05",
+   "query": "best mattresses",
+   "clicks": 445,
+   "impressions": 24141,
+   "ctr": 0.018433,
+   "position": 4.3
+  },
+  {
+   "month": "2026-05",
+   "query": "best mattress topper",
+   "clicks": 2060,
+   "impressions": 46806,
+   "ctr": 0.044011,
+   "position": 2.46
+  },
+  {
+   "month": "2026-05",
+   "query": "best mattress for side sleepers",
+   "clicks": 520,
+   "impressions": 722495,
+   "ctr": 0.00071973,
+   "position": 4.69
+  },
+  {
+   "month": "2026-05",
+   "query": "best mattress for back pain",
+   "clicks": 1500,
+   "impressions": 133977,
+   "ctr": 0.011196,
+   "position": 3.01
+  },
+  {
+   "month": "2026-05",
+   "query": "best mattress 2026",
+   "clicks": 374,
+   "impressions": 21075,
+   "ctr": 0.017746,
+   "position": 2.58
+  },
+  {
+   "month": "2026-05",
+   "query": "best mattress",
+   "clicks": 2627,
+   "impressions": 275493,
+   "ctr": 0.00953563,
+   "position": 2.58
+  },
+  {
+   "month": "2026-05",
+   "query": "best hybrid mattress",
+   "clicks": 246,
+   "impressions": 14591,
+   "ctr": 0.01686,
+   "position": 5.02
+  },
+  {
+   "month": "2026-05",
+   "query": "best cpap machine",
+   "clicks": 746,
+   "impressions": 6620,
+   "ctr": 0.1127,
+   "position": 2.08
+  },
+  {
+   "month": "2026-05",
+   "query": "best cooling mattress",
+   "clicks": 241,
+   "impressions": 49550,
+   "ctr": 0.00486377,
+   "position": 2.75
+  },
+  {
+   "month": "2026-05",
+   "query": "best anti snoring device",
+   "clicks": 30,
+   "impressions": 935,
+   "ctr": 0.032086,
+   "position": 8.52
+  },
+  {
+   "month": "2026-05",
+   "query": "best adjustable bed",
+   "clicks": 6,
+   "impressions": 220,
+   "ctr": 0.027273,
+   "position": 10.01
+  },
+  {
+   "month": "2026-06",
+   "query": "best weighted blanket",
+   "clicks": 16,
+   "impressions": 1005,
+   "ctr": 0.01592,
+   "position": 15.18
+  },
+  {
+   "month": "2026-06",
+   "query": "best pillows",
+   "clicks": 3097,
+   "impressions": 33678,
+   "ctr": 0.091959,
+   "position": 3.37
+  },
+  {
+   "month": "2026-06",
+   "query": "best pillow for side sleepers",
+   "clicks": 2187,
+   "impressions": 1345597,
+   "ctr": 0.0016253,
+   "position": 2.58
+  },
+  {
+   "month": "2026-06",
+   "query": "best pillow",
+   "clicks": 1427,
+   "impressions": 18733,
+   "ctr": 0.076176,
+   "position": 3.39
+  },
+  {
+   "month": "2026-06",
+   "query": "best mattresses 2026",
+   "clicks": 114,
+   "impressions": 18501,
+   "ctr": 0.00616183,
+   "position": 7.51
+  },
+  {
+   "month": "2026-06",
+   "query": "best mattresses",
+   "clicks": 43,
+   "impressions": 12683,
+   "ctr": 0.00339037,
+   "position": 7.84
+  },
+  {
+   "month": "2026-06",
+   "query": "best mattress topper",
+   "clicks": 2143,
+   "impressions": 39419,
+   "ctr": 0.054365,
+   "position": 1.71
+  },
+  {
+   "month": "2026-06",
+   "query": "best mattress for side sleepers",
+   "clicks": 275,
+   "impressions": 175160,
+   "ctr": 0.00156999,
+   "position": 4.53
+  },
+  {
+   "month": "2026-06",
+   "query": "best mattress for back pain",
+   "clicks": 109,
+   "impressions": 35692,
+   "ctr": 0.00305391,
+   "position": 10.32
+  },
+  {
+   "month": "2026-06",
+   "query": "best mattress 2026",
+   "clicks": 33,
+   "impressions": 4360,
+   "ctr": 0.00756881,
+   "position": 6.63
+  },
+  {
+   "month": "2026-06",
+   "query": "best mattress",
+   "clicks": 210,
+   "impressions": 96359,
+   "ctr": 0.00217935,
+   "position": 3.98
+  },
+  {
+   "month": "2026-06",
+   "query": "best hybrid mattress",
+   "clicks": 223,
+   "impressions": 9314,
+   "ctr": 0.023942,
+   "position": 4.94
+  },
+  {
+   "month": "2026-06",
+   "query": "best cpap machine",
+   "clicks": 670,
+   "impressions": 6353,
+   "ctr": 0.1055,
+   "position": 2.21
+  },
+  {
+   "month": "2026-06",
+   "query": "best cooling mattress",
+   "clicks": 253,
+   "impressions": 26259,
+   "ctr": 0.00963479,
+   "position": 2.54
+  },
+  {
+   "month": "2026-06",
+   "query": "best anti snoring device",
+   "clicks": 24,
+   "impressions": 560,
+   "ctr": 0.042857,
+   "position": 9.54
+  },
+  {
+   "month": "2026-06",
+   "query": "best adjustable bed",
+   "clicks": 1,
+   "impressions": 26,
+   "ctr": 0.038462,
+   "position": 20.73
+  },
+  {
+   "month": "2026-07",
+   "query": "best pillows",
+   "clicks": 3443,
+   "impressions": 37267,
+   "ctr": 0.092387,
+   "position": 3.8
+  },
+  {
+   "month": "2026-07",
+   "query": "best pillow for side sleepers",
+   "clicks": 1940,
+   "impressions": 1296291,
+   "ctr": 0.00149658,
+   "position": 4.12
+  },
+  {
+   "month": "2026-07",
+   "query": "best pillow",
+   "clicks": 1604,
+   "impressions": 23147,
+   "ctr": 0.069296,
+   "position": 3.74
+  },
+  {
+   "month": "2026-07",
+   "query": "best mattresses 2026",
+   "clicks": 544,
+   "impressions": 27343,
+   "ctr": 0.019895,
+   "position": 4.1
+  },
+  {
+   "month": "2026-07",
+   "query": "best weighted blanket",
+   "clicks": 48,
+   "impressions": 2870,
+   "ctr": 0.016725,
+   "position": 14.05
+  },
+  {
+   "month": "2026-07",
+   "query": "best mattress topper",
+   "clicks": 2360,
+   "impressions": 39193,
+   "ctr": 0.060215,
+   "position": 2.28
+  },
+  {
+   "month": "2026-07",
+   "query": "best mattress for side sleepers",
+   "clicks": 274,
+   "impressions": 43044,
+   "ctr": 0.00636558,
+   "position": 7.33
+  },
+  {
+   "month": "2026-07",
+   "query": "best mattresses",
+   "clicks": 488,
+   "impressions": 17670,
+   "ctr": 0.027617,
+   "position": 5.01
+  },
+  {
+   "month": "2026-07",
+   "query": "best mattress 2026",
+   "clicks": 169,
+   "impressions": 87714,
+   "ctr": 0.00192672,
+   "position": 2.61
+  },
+  {
+   "month": "2026-07",
+   "query": "best mattress",
+   "clicks": 2603,
+   "impressions": 148814,
+   "ctr": 0.017492,
+   "position": 3.2
+  },
+  {
+   "month": "2026-07",
+   "query": "best hybrid mattress",
+   "clicks": 394,
+   "impressions": 9240,
+   "ctr": 0.042641,
+   "position": 2.63
+  },
+  {
+   "month": "2026-07",
+   "query": "best cpap machine",
+   "clicks": 511,
+   "impressions": 6402,
+   "ctr": 0.079819,
+   "position": 3.31
+  },
+  {
+   "month": "2026-07",
+   "query": "best cooling mattress",
+   "clicks": 165,
+   "impressions": 26970,
+   "ctr": 0.00611791,
+   "position": 4.86
+  },
+  {
+   "month": "2026-07",
+   "query": "best anti snoring device",
+   "clicks": 59,
+   "impressions": 1060,
+   "ctr": 0.05566,
+   "position": 10.95
+  },
+  {
+   "month": "2026-07",
+   "query": "best adjustable bed",
+   "clicks": 2,
+   "impressions": 71,
+   "ctr": 0.028169,
+   "position": 17.1
+  },
+  {
+   "month": "2026-07",
+   "query": "best mattress for back pain",
+   "clicks": 358,
+   "impressions": 53655,
+   "ctr": 0.00667226,
+   "position": 7.08
+  },
+  {
+   "month": "2026-08",
+   "query": "best weighted blanket",
+   "clicks": 41,
+   "impressions": 2772,
+   "ctr": 0.014791,
+   "position": 13.29
+  },
+  {
+   "month": "2026-08",
+   "query": "best pillows",
+   "clicks": 3777,
+   "impressions": 41074,
+   "ctr": 0.091956,
+   "position": 3.43
+  },
+  {
+   "month": "2026-08",
+   "query": "best pillow for side sleepers",
+   "clicks": 4245,
+   "impressions": 1363978,
+   "ctr": 0.00311222,
+   "position": 2.77
+  },
+  {
+   "month": "2026-08",
+   "query": "best pillow",
+   "clicks": 1826,
+   "impressions": 23329,
+   "ctr": 0.078272,
+   "position": 3.84
+  },
+  {
+   "month": "2026-08",
+   "query": "best mattresses 2026",
+   "clicks": 2246,
+   "impressions": 35682,
+   "ctr": 0.062945,
+   "position": 1.56
+  },
+  {
+   "month": "2026-08",
+   "query": "best mattresses",
+   "clicks": 1121,
+   "impressions": 21824,
+   "ctr": 0.051365,
+   "position": 3.12
+  },
+  {
+   "month": "2026-08",
+   "query": "best mattress topper",
+   "clicks": 2463,
+   "impressions": 39518,
+   "ctr": 0.062326,
+   "position": 2.58
+  },
+  {
+   "month": "2026-08",
+   "query": "best mattress for side sleepers",
+   "clicks": 278,
+   "impressions": 24593,
+   "ctr": 0.011304,
+   "position": 8.25
+  },
+  {
+   "month": "2026-08",
+   "query": "best mattress for back pain",
+   "clicks": 453,
+   "impressions": 57703,
+   "ctr": 0.00785055,
+   "position": 6.37
+  },
+  {
+   "month": "2026-08",
+   "query": "best mattress 2026",
+   "clicks": 501,
+   "impressions": 65347,
+   "ctr": 0.00766676,
+   "position": 1.08
+  },
+  {
+   "month": "2026-08",
+   "query": "best mattress",
+   "clicks": 4237,
+   "impressions": 149221,
+   "ctr": 0.028394,
+   "position": 2.78
+  },
+  {
+   "month": "2026-08",
+   "query": "best hybrid mattress",
+   "clicks": 290,
+   "impressions": 8670,
+   "ctr": 0.033449,
+   "position": 3.4
+  },
+  {
+   "month": "2026-08",
+   "query": "best cpap machine",
+   "clicks": 271,
+   "impressions": 4843,
+   "ctr": 0.055957,
+   "position": 5.4
+  },
+  {
+   "month": "2026-08",
+   "query": "best cooling mattress",
+   "clicks": 56,
+   "impressions": 11718,
+   "ctr": 0.00477897,
+   "position": 6.49
+  },
+  {
+   "month": "2026-08",
+   "query": "best anti snoring device",
+   "clicks": 29,
+   "impressions": 551,
+   "ctr": 0.052632,
+   "position": 12.57
+  },
+  {
+   "month": "2026-08",
+   "query": "best adjustable bed",
+   "clicks": 1,
+   "impressions": 9,
+   "ctr": 0.1111,
+   "position": 24.11
+  },
+  {
+   "month": "2026-09",
+   "query": "best pillows",
+   "clicks": 3190,
+   "impressions": 37857,
+   "ctr": 0.084264,
+   "position": 3.67
+  },
+  {
+   "month": "2026-09",
+   "query": "best pillow for side sleepers",
+   "clicks": 2756,
+   "impressions": 1335601,
+   "ctr": 0.00206349,
+   "position": 3.32
+  },
+  {
+   "month": "2026-09",
+   "query": "best pillow",
+   "clicks": 1593,
+   "impressions": 50939,
+   "ctr": 0.031273,
+   "position": 2.72
+  },
+  {
+   "month": "2026-09",
+   "query": "best mattresses 2026",
+   "clicks": 1709,
+   "impressions": 56263,
+   "ctr": 0.030375,
+   "position": 1.84
+  },
+  {
+   "month": "2026-09",
+   "query": "best weighted blanket",
+   "clicks": 16,
+   "impressions": 1426,
+   "ctr": 0.01122,
+   "position": 13.19
+  },
+  {
+   "month": "2026-09",
+   "query": "best mattress topper",
+   "clicks": 1804,
+   "impressions": 54318,
+   "ctr": 0.033212,
+   "position": 2.69
+  },
+  {
+   "month": "2026-09",
+   "query": "best mattress for side sleepers",
+   "clicks": 182,
+   "impressions": 28352,
+   "ctr": 0.0064193,
+   "position": 6.84
+  },
+  {
+   "month": "2026-09",
+   "query": "best mattresses",
+   "clicks": 592,
+   "impressions": 21610,
+   "ctr": 0.027395,
+   "position": 3.28
+  },
+  {
+   "month": "2026-09",
+   "query": "best mattress 2026",
+   "clicks": 341,
+   "impressions": 13211,
+   "ctr": 0.025812,
+   "position": 1.68
+  },
+  {
+   "month": "2026-09",
+   "query": "best mattress",
+   "clicks": 1939,
+   "impressions": 227179,
+   "ctr": 0.00853512,
+   "position": 2.7
+  },
+  {
+   "month": "2026-09",
+   "query": "best hybrid mattress",
+   "clicks": 132,
+   "impressions": 12225,
+   "ctr": 0.010798,
+   "position": 4.7
+  },
+  {
+   "month": "2026-09",
+   "query": "best cpap machine",
+   "clicks": 226,
+   "impressions": 4239,
+   "ctr": 0.053314,
+   "position": 7.51
+  },
+  {
+   "month": "2026-09",
+   "query": "best cooling mattress",
+   "clicks": 46,
+   "impressions": 12742,
+   "ctr": 0.00361011,
+   "position": 6.11
+  },
+  {
+   "month": "2026-09",
+   "query": "best anti snoring device",
+   "clicks": 39,
+   "impressions": 1014,
+   "ctr": 0.038462,
+   "position": 10.64
+  },
+  {
+   "month": "2026-09",
+   "query": "best adjustable bed",
+   "clicks": 1,
+   "impressions": 35,
+   "ctr": 0.028571,
+   "position": 14.6
+  },
+  {
+   "month": "2026-09",
+   "query": "best mattress for back pain",
+   "clicks": 296,
+   "impressions": 82036,
+   "ctr": 0.00360817,
+   "position": 5.31
+  },
+  {
+   "month": "2026-10",
+   "query": "best weighted blanket",
+   "clicks": 12,
+   "impressions": 2025,
+   "ctr": 0.00592593,
+   "position": 16.19
+  },
+  {
+   "month": "2026-10",
+   "query": "best pillows",
+   "clicks": 2793,
+   "impressions": 36587,
+   "ctr": 0.076339,
+   "position": 3.48
+  },
+  {
+   "month": "2026-10",
+   "query": "best pillow for side sleepers",
+   "clicks": 1831,
+   "impressions": 51927,
+   "ctr": 0.035261,
+   "position": 4.46
+  },
+  {
+   "month": "2026-10",
+   "query": "best pillow",
+   "clicks": 1538,
+   "impressions": 30424,
+   "ctr": 0.050552,
+   "position": 3.19
+  },
+  {
+   "month": "2026-10",
+   "query": "best mattresses 2026",
+   "clicks": 1158,
+   "impressions": 18183,
+   "ctr": 0.063686,
+   "position": 2.07
+  },
+  {
+   "month": "2026-10",
+   "query": "best mattress topper",
+   "clicks": 1187,
+   "impressions": 35847,
+   "ctr": 0.033113,
+   "position": 3.35
+  },
+  {
+   "month": "2026-10",
+   "query": "best mattress for side sleepers",
+   "clicks": 230,
+   "impressions": 23077,
+   "ctr": 0.00996663,
+   "position": 5.84
+  },
+  {
+   "month": "2026-10",
+   "query": "best mattresses",
+   "clicks": 349,
+   "impressions": 18017,
+   "ctr": 0.019371,
+   "position": 4.63
+  },
+  {
+   "month": "2026-10",
+   "query": "best mattress 2026",
+   "clicks": 260,
+   "impressions": 12841,
+   "ctr": 0.020248,
+   "position": 1.46
+  },
+  {
+   "month": "2026-10",
+   "query": "best mattress",
+   "clicks": 1401,
+   "impressions": 116317,
+   "ctr": 0.012045,
+   "position": 3.78
+  },
+  {
+   "month": "2026-10",
+   "query": "best hybrid mattress",
+   "clicks": 167,
+   "impressions": 7113,
+   "ctr": 0.023478,
+   "position": 3.57
+  },
+  {
+   "month": "2026-10",
+   "query": "best cpap machine",
+   "clicks": 184,
+   "impressions": 5174,
+   "ctr": 0.035562,
+   "position": 7.14
+  },
+  {
+   "month": "2026-10",
+   "query": "best cooling mattress",
+   "clicks": 52,
+   "impressions": 7183,
+   "ctr": 0.00723932,
+   "position": 4.22
+  },
+  {
+   "month": "2026-10",
+   "query": "best anti snoring device",
+   "clicks": 61,
+   "impressions": 1711,
+   "ctr": 0.035652,
+   "position": 7.2
+  },
+  {
+   "month": "2026-10",
+   "query": "best adjustable bed",
+   "clicks": 1,
+   "impressions": 32,
+   "ctr": 0.03125,
+   "position": 31.91
+  },
+  {
+   "month": "2026-10",
+   "query": "best mattress for back pain",
+   "clicks": 179,
+   "impressions": 29461,
+   "ctr": 0.00607583,
+   "position": 8.75
+  },
+  {
+   "month": "2026-11",
+   "query": "best pillow",
+   "clicks": 64,
+   "impressions": 1874,
+   "ctr": 0.034152,
+   "position": 2.12
+  },
+  {
+   "month": "2026-11",
+   "query": "best mattresses 2026",
+   "clicks": 39,
+   "impressions": 760,
+   "ctr": 0.051316,
+   "position": 2.39
+  },
+  {
+   "month": "2026-11",
+   "query": "best mattresses",
+   "clicks": 11,
+   "impressions": 679,
+   "ctr": 0.0162,
+   "position": 5.44
+  },
+  {
+   "month": "2026-11",
+   "query": "best mattress topper",
+   "clicks": 23,
+   "impressions": 1003,
+   "ctr": 0.022931,
+   "position": 6.05
+  },
+  {
+   "month": "2026-11",
+   "query": "best mattress for side sleepers",
+   "clicks": 4,
+   "impressions": 684,
+   "ctr": 0.00584795,
+   "position": 4.81
+  },
+  {
+   "month": "2026-11",
+   "query": "best hybrid mattress",
+   "clicks": 5,
+   "impressions": 236,
+   "ctr": 0.021186,
+   "position": 4.0
+  },
+  {
+   "month": "2026-11",
+   "query": "best mattress 2026",
+   "clicks": 14,
+   "impressions": 804,
+   "ctr": 0.017413,
+   "position": 1.29
+  },
+  {
+   "month": "2026-11",
+   "query": "best mattress",
+   "clicks": 67,
+   "impressions": 3728,
+   "ctr": 0.017972,
+   "position": 3.87
+  },
+  {
+   "month": "2026-11",
+   "query": "best cpap machine",
+   "clicks": 1,
+   "impressions": 93,
+   "ctr": 0.010753,
+   "position": 7.35
+  },
+  {
+   "month": "2026-11",
+   "query": "best cooling mattress",
+   "clicks": 1,
+   "impressions": 474,
+   "ctr": 0.0021097,
+   "position": 3.57
+  },
+  {
+   "month": "2026-11",
+   "query": "best pillow for side sleepers",
+   "clicks": 63,
+   "impressions": 2238,
+   "ctr": 0.02815,
+   "position": 6.01
+  },
+  {
+   "month": "2026-11",
+   "query": "best mattress for back pain",
+   "clicks": 6,
+   "impressions": 729,
+   "ctr": 0.00823045,
+   "position": 10.91
+  },
+  {
+   "month": "2026-11",
+   "query": "best pillows",
+   "clicks": 129,
+   "impressions": 1647,
+   "ctr": 0.078324,
+   "position": 2.56
+  }
+ ],
+ "weeks": [
+  "28 Jun",
+  "5 Jul",
+  "12 Jul",
+  "19 Jul",
+  "26 Jul",
+  "2 Aug",
+  "9 Aug",
+  "16 Aug",
+  "23 Aug",
+  "30 Aug",
+  "6 Sep",
+  "13 Sep",
+  "20 Sep",
+  "27 Sep",
+  "4 Oct",
+  "11 Oct",
+  "18 Oct",
+  "25 Oct"
+ ],
+ "wk_clicks": [
+  257998,
+  291360,
+  280557,
+  277951,
+  263285,
+  256753,
+  241041,
+  257293,
+  251644,
+  256440,
+  263789,
+  254120,
+  244317,
+  240822,
+  235627,
+  217094,
+  214318,
+  210962
+ ],
+ "wk_impr": [
+  38430003,
+  39740832,
+  40497724,
+  39984366,
+  39937113,
+  37824644,
+  38498803,
+  33778256,
+  32435316,
+  36841337,
+  36863431,
+  34269484,
+  27315056,
+  24325612,
+  24127758,
+  23267322,
+  23317612,
+  23428983
+ ],
+ "pages_yoy": [
+  [
+   "/best-pillows",
+   82485,
+   52937,
+   5.3,
+   -5.12
+  ],
+  [
+   "/best-mattress",
+   50369,
+   -38885,
+   6.51,
+   -9.61
+  ],
+  [
+   "/best-mattress-toppers",
+   41452,
+   -15393,
+   4.75,
+   -15.11
+  ],
+  [
+   "/best-sleep-trackers",
+   36423,
+   2275,
+   2.9,
+   -4.96
+  ],
+  [
+   "/best-pillows/best-wedge-pillow",
+   19327,
+   -5269,
+   7.13,
+   0.33
+  ],
+  [
+   "/best-anti-snoring-mouthpieces-and-mouthguards",
+   17588,
+   -33301,
+   7.78,
+   -17.25
+  ],
+  [
+   "/best-pillows/best-pillow-for-neck-pain",
+   16601,
+   -17885,
+   6.99,
+   -3.78
+  ],
+  [
+   "/best-mouthguard-for-teeth-grinding",
+   14449,
+   -9986,
+   9.09,
+   -0.47
+  ],
+  [
+   "/best-pillows/best-body-pillow",
+   12535,
+   12040,
+   7.35,
+   -15.72
+  ],
+  [
+   "/best-mattress-toppers/best-mattress-topper-for-back-pain",
+   11250,
+   -12965,
+   5.55,
+   -4.06
+  ],
+  [
+   "/best-pillows/best-pillow-for-sleep-apnea",
+   10150,
+   -18343,
+   5.64,
+   -0.37
+  ],
+  [
+   "/best-pillows/best-knee-pillow",
+   9624,
+   1373,
+   7.19,
+   -1.43
+  ],
+  [
+   "/best-mattress/best-mattress-for-side-sleepers",
+   8375,
+   -23511,
+   5.59,
+   -3.91
+  ],
+  [
+   "/best-pillows/best-pillow-for-shoulder-pain",
+   7619,
+   1852,
+   6.67,
+   -0.52
+  ],
+  [
+   "/best-mattress/best-mattress-for-back-pain",
+   7120,
+   -35427,
+   7.41,
+   -16.68
+  ],
+  [
+   "/best-pillows/best-pillow-for-side-sleepers",
+   6252,
+   -27642,
+   7.95,
+   -4.06
+  ],
+  [
+   "/best-cpap-machines",
+   5892,
+   -18258,
+   8.51,
+   -2.32
+  ],
+  [
+   "/best-mattress-pads",
+   5562,
+   -1296,
+   9.02,
+   -0.97
+  ],
+  [
+   "/best-mattress/best-hybrid-mattress",
+   4941,
+   -3549,
+   7.54,
+   0.07
+  ],
+  [
+   "/best-sleep-apps",
+   4376,
+   -5943,
+   7.6,
+   0.77
+  ],
+  [
+   "/best-mattress/best-toddler-mattress",
+   4348,
+   1844,
+   6.57,
+   -4.05
+  ],
+  [
+   "/best-mattress/best-mattress-in-a-box",
+   4209,
+   4020,
+   8.48,
+   -20.33
+  ],
+  [
+   "/best-mattress/best-mattress-in-canada",
+   4168,
+   3430,
+   7.17,
+   -9.75
+  ],
+  [
+   "/best-mattress/best-cooling-mattress",
+   4046,
+   -4546,
+   7.17,
+   0.05
+  ],
+  [
+   "/best-pillows/best-pillow-for-stomach-sleepers",
+   3923,
+   826,
+   6.62,
+   -1.63
+  ],
+  [
+   "/best-mattress/best-king-mattress",
+   3817,
+   3122,
+   10.57,
+   -9.73
+  ],
+  [
+   "/best-pillows/best-cooling-pillow",
+   3605,
+   3353,
+   8.17,
+   -7.93
+  ],
+  [
+   "/best-mattress-toppers/best-cooling-mattress-topper",
+   3076,
+   2368,
+   7.2,
+   -2.86
+  ],
+  [
+   "/best-mattress-pads/best-cooling-mattress-pad",
+   2552,
+   2159,
+   7.47,
+   -7.37
+  ],
+  [
+   "/best-mattress/best-twin-mattress",
+   2354,
+   1686,
+   9.7,
+   -9.75
+  ]
+ ],
+ "pages_qoq": [
+  [
+   "/best-pillows",
+   82485,
+   12804
+  ],
+  [
+   "/best-mattress",
+   50369,
+   10591
+  ],
+  [
+   "/best-mattress-toppers",
+   41452,
+   -17532
+  ],
+  [
+   "/best-sleep-trackers",
+   36423,
+   -10575
+  ],
+  [
+   "/best-pillows/best-wedge-pillow",
+   19327,
+   -4933
+  ],
+  [
+   "/best-anti-snoring-mouthpieces-and-mouthguards",
+   17588,
+   -11612
+  ],
+  [
+   "/best-mattress/best-mattress-in-a-box",
+   4209,
+   2686
+  ],
+  [
+   "/best-mattress/best-mattress-for-back-pain",
+   7120,
+   2122
+  ],
+  [
+   "/best-pillows/best-pillow-for-side-sleepers",
+   6252,
+   1632
+  ],
+  [
+   "/best-cpap-machines",
+   5892,
+   -8353
+  ],
+  [
+   "/best-mattress/best-cooling-mattress",
+   4046,
+   -5272
+  ],
+  [
+   "/best-sleep-apps",
+   4376,
+   -2880
+  ]
+ ],
+ "info_yoy": [
+  [
+   "/sleep-calculator",
+   67796,
+   -60412
+  ],
+  [
+   "/melatonin/melatonin-dosage-how-much-should-you-take",
+   53385,
+   -77900
+  ],
+  [
+   "/stages-of-sleep",
+   36761,
+   -46061
+  ],
+  [
+   "/magnesium",
+   35089,
+   -44411
+  ],
+  [
+   "/insomnia/treatment/what-do-when-you-cant-sleep",
+   32653,
+   -55905
+  ],
+  [
+   "/physical-health/sleeping-heart-rate",
+   29114,
+   -36720
+  ],
+  [
+   "/dreams/vivid-dreams",
+   31005,
+   5293
+  ],
+  [
+   "/baby-sleep/4-month-sleep-regression",
+   22700,
+   4252
+  ],
+  [
+   "/parasomnias/hypnic-jerks",
+   49530,
+   1556
+  ]
+ ],
+ "pulled": "4 Nov 2026"
+}
