@@ -1,0 +1,109 @@
+{
+ "status": "First draft, 10 Nov 2026. Further diligence required. Not for reliance.",
+ "one_time_cost_usd_k": {
+  "items": [
+   "Separation lead and project office",
+   "MediaCo data platform",
+   "Mail, sign-on and device migration",
+   "WordPress fork, links, hosting transfer",
+   "Tagging, analytics and consent rebuild",
+   "Security",
+   "Counsel",
+   "MediaCo finance system"
+  ],
+  "earlier_low": [
+   90,
+   80,
+   40,
+   20,
+   25,
+   30,
+   50,
+   30
+  ],
+  "earlier_high": [
+   150,
+   150,
+   80,
+   40,
+   50,
+   60,
+   100,
+   100
+  ],
+  "ai_assisted_low": [
+   85,
+   55,
+   35,
+   12,
+   15,
+   25,
+   50,
+   30
+  ],
+  "ai_assisted_high": [
+   140,
+   105,
+   70,
+   25,
+   35,
+   50,
+   100,
+   90
+  ],
+  "contingency": 0.2,
+  "earlier_total": [
+   438,
+   876
+  ],
+  "ai_assisted_total": [
+   368,
+   738
+  ],
+  "ai_assisted_midpoint": 553
+ },
+ "added_yearly_cost_usd_k": {
+  "earlier": [
+   300,
+   600
+  ],
+  "ai_assisted": [
+   270,
+   550
+  ]
+ },
+ "gates_weeks": {
+  "perimeter": 3,
+  "cutover": 10,
+  "data_split": 18,
+  "stand_alone": 26
+ },
+ "headcount_active_10_nov_2026": {
+  "sleep_care": 58,
+  "sleep_media": 8,
+  "shared_services": 17
+ },
+ "media_revenue_2026f_usd_m": {
+  "sleepfoundation.org": 13.66,
+  "sleepdoctor.com": 1.33,
+  "advertising_and_other_not_split": 1.12,
+  "other_domains": 0.17,
+  "total": 16.29
+ },
+ "debt_sep_2026_usd_m": {
+  "senior": 100.6,
+  "subordinated": 85.9,
+  "other": 3.3
+ },
+ "registry_expiry": {
+  "sleepfoundation.org": "2026-11-11",
+  "sleepapnea.org": "2026-12-21",
+  "thesleepdoctor.com": "2027-01-19",
+  "sleepdoctor.com": "2028-01-19"
+ },
+ "third_party_tools_seen": {
+  "sleepdoctor.com": 14,
+  "sleepfoundation.org": 5,
+  "sleepapnea.org": 4
+ }
+}
